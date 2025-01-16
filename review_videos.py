@@ -3,7 +3,10 @@ import streamlit as st
 import pandas as pd
 import os
 
-
+# File names
+# result_csv_name = 'review_results_0_216_1230.csv'
+# input_csv_name = 'splited_videos_0_216_1230.csv'
+# input_csv_name = 'splited_videos_0_216_250102.csv'
 result_csv_name = 'review_results_250102.csv'
 
 # Load data with caching
@@ -60,3 +63,7 @@ st.caption(f"SID:{df.iloc[st.session_state.current_index]['sid']} order:{df.iloc
 st.caption(f"Reviewing {st.session_state.current_index} out of {len(df)}")
 
 
+# Control buttons
+
+
+# %%
