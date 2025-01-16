@@ -26,31 +26,33 @@ video_placeholder = st.empty()
 def next_video():
     if st.session_state.current_index < len(df) - 1:
         st.session_state.current_index += 1
-        display_video()
+        update_video()
 
 def previous_video():
     if st.session_state.current_index > 0:
         st.session_state.current_index -= 1
-        display_video()
+        update_video()
 
-def display_video():
+def update_video():
     video_url = df.iloc[st.session_state.current_index]['video_urls']
-    video_placeholder.video(video_url, autoplay=True, muted=True, key=f"video_{st.session_state.current_index}")
+    with video_placeholder:
+        st.video(video_url, autoplay=True, muted=True)
 
 # Streamlit UI
 st.title("Video Review App")
 
 # Display video
-display_video()
+update_video()
 
 # Display video information
 st.info(f"Prompt: {df.iloc[st.session_state.current_index]['scene_prompt']}")
 st.info(f"Marked as {df.iloc[st.session_state.current_index]['status']}")
+
 col1, col2 = st.columns(2)
 with col1:
     st.button("Next", on_click=next_video)
 with col2:
     st.button("Previous", on_click=previous_video)
-    
+
 st.caption(f"SID: {df.iloc[st.session_state.current_index]['sid']} Order: {df.iloc[st.session_state.current_index]['order']}")
 st.caption(f"Reviewing {st.session_state.current_index + 1} out of {len(df)}")
