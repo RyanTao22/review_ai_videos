@@ -8,9 +8,16 @@ result_csv_name = 'review_results_250102.csv'
 @st.cache_data
 def load_data():
     full_df = pd.read_csv(result_csv_name, encoding='utf-8')
-    full_df = full_df.sort_values(by=['sid', 'order'])
-    full_df = full_df[full_df['sid'] != 0]
+    
     full_df.reset_index(drop=True, inplace=True)
+    
+    exclude_indices = list(range(22, 88)) + list(range(97, 135))
+    full_df = full_df[~full_df.index.isin(exclude_indices)]
+    full_df = full_df[full_df['sid'] != 0]
+    
+    full_df = full_df.sort_values(by=['sid', 'order'])
+    full_df.reset_index(drop=True, inplace=True)
+
     return full_df
 
 df = load_data()
