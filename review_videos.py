@@ -36,8 +36,8 @@ def previous_video():
 def update_video():
     video_url = df.iloc[st.session_state.current_index]['video_urls']
     st.empty()
-    with video_placeholder:
-        st.video(video_url)
+    #with video_placeholder:
+    st.video(video_url)
         # st.video(video_url, muted=True, autoplay=True)
 
 # Streamlit UI
