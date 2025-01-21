@@ -40,6 +40,17 @@ def update_video():
         #st.video(video_url)
         st.video(video_url, autoplay=True, muted=True)
 
+def go_to_video():
+    try:
+        index = int(st.session_state.video_index_input) - 1  # Convert to zero-based index
+        if 0 <= index < len(df):
+            st.session_state.current_index = index
+            #update_video()
+        else:
+            st.error("Please enter a valid index.")
+    except ValueError:
+        st.error("Please enter a valid number.")
+
 # Streamlit UI
 #st.title("Video Review App")
 st.info(f"Marked as {df.iloc[st.session_state.current_index]['status']}")
@@ -51,11 +62,19 @@ update_video()
 st.info(f"Prompt: {df.iloc[st.session_state.current_index]['scene_prompt']}")
 
 
-col1, col2 = st.columns(2)
+
+col1, col2, col3 = st.columns(3)
 with col1:
     st.button("Previous", on_click=previous_video,key='minus_one'+str(st.session_state.current_index))
 with col2:
     st.button("Next", on_click=next_video,key='add_one'+str(st.session_state.current_index))
+with col3:
+    st.text_input("Enter video index:", key="video_index_input", on_change=go_to_video)
+
+
+col3= st.columns(1)
+
+
     
 
 st.caption(f"SID: {df.iloc[st.session_state.current_index]['sid']} Order: {df.iloc[st.session_state.current_index]['order']}")
