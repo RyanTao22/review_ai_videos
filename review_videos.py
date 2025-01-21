@@ -26,19 +26,19 @@ video_placeholder = st.empty()
 def next_video():
     if st.session_state.current_index < len(df) - 1:
         st.session_state.current_index += 1
-        update_video()
+        #update_video()
 
 def previous_video():
     if st.session_state.current_index > 0:
         st.session_state.current_index -= 1
-        update_video()
+        #update_video()
 
 def update_video():
     video_url = df.iloc[st.session_state.current_index]['video_urls']
     st.empty()
-    #with video_placeholder:
-    st.video(video_url)
-        # st.video(video_url, muted=True, autoplay=True)
+    with video_placeholder:
+        #st.video(video_url)
+        st.video(video_url, autoplay=True, muted=True)
 
 # Streamlit UI
 #st.title("Video Review App")
