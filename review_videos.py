@@ -3,6 +3,7 @@ import pandas as pd
 
 # File names
 result_csv_name = 'review_results_250102.csv'
+result_csv_kling = 'review_results_kling_250123.csv'
 
 # Load data with caching
 @st.cache_data
@@ -18,9 +19,24 @@ def load_data():
     full_df = full_df.sort_values(by=['sid', 'order'])
     full_df.reset_index(drop=True, inplace=True)
 
-    return full_df
 
-df = load_data()
+    kling = pd.read_csv(result_csv_kling, encoding='utf-8')
+    #kling = kling.iloc[15:]
+    kling.reset_index(drop=True, inplace=True)
+
+    return full_df, kling
+
+df_org,kling_df = load_data()
+
+on = st.toggle("Kling On")
+if on:
+    df = kling_df
+    st.empty()
+else: 
+    df = df_org
+    st.empty()
+
+#df = df_org
 
 # Initialize session state
 if 'current_index' not in st.session_state:
@@ -70,16 +86,15 @@ st.info(f"Prompt: {df.iloc[st.session_state.current_index]['scene_prompt']}")
 
 
 
-col1, col2, col3 = st.columns(3)
+col1, col2, col3= st.columns(3)
 with col1:
     st.button("Previous", on_click=previous_video,key='minus_one'+str(st.session_state.current_index))
+    
 with col2:
     st.button("Next", on_click=next_video,key='add_one'+str(st.session_state.current_index))
 with col3:
     st.text_input("Enter video index:", key="video_index_input", on_change=go_to_video)
 
-
-col3= st.columns(1)
 
 
     
