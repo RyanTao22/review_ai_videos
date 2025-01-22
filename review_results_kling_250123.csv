@@ -1,0 +1,1558 @@
+sid,Group,Prompt,Script,audio_name,audio_url,narrator_start_timestamps,narrator_durations,video_urls,order,scene_prompt,status
+0,2,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad in the narrative.
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A bright, sunlit bathroom filled with plants; toothpaste(Colgate) sitting on the counter]  
+Narrator: Start your day with confidence and a radiant smile!  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles widely into the mirror, looking lively as she picks up her toothbrush]  
+Narrator: Emma knows the power of fresh breath and healthy gums.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles brightly, applying toothpaste(Colgate) onto her toothbrush]  
+Narrator: With Colgate, she___ ready to shine all day long.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles and begins to brush the teeth with toothbrush, eyes full of energy]  
+Narrator: Colgate contains breakthrough formulas designed to care for your smile.  
+  
+[Scene: last 5 seconds: Close-up of toothpaste(Colgate) tube as it lies on the sink, invitingly open]  
+Narrator: Colgate provides 12 hours of protection against bacteria and decay.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles at her reflection, showing her gleaming teeth]  
+Narrator: For Emma, every day begins with a fresh start, all thanks to Colgate.  
+  
+[Scene: last 5 seconds: A satisfying shot of Emma(young woman with long brown hair wearing a white robe) smiling, exuding confidence]  
+Narrator: Unlock the secret to a healthy, beautiful smile. Choose Colgate.  
+
+[Scene: last 5 seconds: A pristine bathroom counter featuring the toothpaste(Colgate) as the focal point]  
+Narrator: Colgate, for a future full of smiles.",2024112623373755.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623373755.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635459&Signature=T7zVZ9291ozl2O1g87xHRWP%2Buu4%3D,0.0,2.879,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADUx5A-0_raw_video_1.mp4,0,"A bright, sunlit bathroom filled with plants; toothpaste(Colgate) sitting on the counter",not_passed
+0,2,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad in the narrative.
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A bright, sunlit bathroom filled with plants; toothpaste(Colgate) sitting on the counter]  
+Narrator: Start your day with confidence and a radiant smile!  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles widely into the mirror, looking lively as she picks up her toothbrush]  
+Narrator: Emma knows the power of fresh breath and healthy gums.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles brightly, applying toothpaste(Colgate) onto her toothbrush]  
+Narrator: With Colgate, she___ ready to shine all day long.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles and begins to brush the teeth with toothbrush, eyes full of energy]  
+Narrator: Colgate contains breakthrough formulas designed to care for your smile.  
+  
+[Scene: last 5 seconds: Close-up of toothpaste(Colgate) tube as it lies on the sink, invitingly open]  
+Narrator: Colgate provides 12 hours of protection against bacteria and decay.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles at her reflection, showing her gleaming teeth]  
+Narrator: For Emma, every day begins with a fresh start, all thanks to Colgate.  
+  
+[Scene: last 5 seconds: A satisfying shot of Emma(young woman with long brown hair wearing a white robe) smiling, exuding confidence]  
+Narrator: Unlock the secret to a healthy, beautiful smile. Choose Colgate.  
+
+[Scene: last 5 seconds: A pristine bathroom counter featuring the toothpaste(Colgate) as the focal point]  
+Narrator: Colgate, for a future full of smiles.",2024112623373755.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623373755.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635459&Signature=T7zVZ9291ozl2O1g87xHRWP%2Buu4%3D,0.0,2.879,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADUx5A-0_raw_video_1.mp4,0,"A bright, sunlit bathroom filled with plants; toothpaste(Colgate) sitting on the counter",not_passed
+0,2,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad in the narrative.
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A bright, sunlit bathroom filled with plants; toothpaste(Colgate) sitting on the counter]  
+Narrator: Start your day with confidence and a radiant smile!  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles widely into the mirror, looking lively as she picks up her toothbrush]  
+Narrator: Emma knows the power of fresh breath and healthy gums.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles brightly, applying toothpaste(Colgate) onto her toothbrush]  
+Narrator: With Colgate, she___ ready to shine all day long.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles and begins to brush the teeth with toothbrush, eyes full of energy]  
+Narrator: Colgate contains breakthrough formulas designed to care for your smile.  
+  
+[Scene: last 5 seconds: Close-up of toothpaste(Colgate) tube as it lies on the sink, invitingly open]  
+Narrator: Colgate provides 12 hours of protection against bacteria and decay.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles at her reflection, showing her gleaming teeth]  
+Narrator: For Emma, every day begins with a fresh start, all thanks to Colgate.  
+  
+[Scene: last 5 seconds: A satisfying shot of Emma(young woman with long brown hair wearing a white robe) smiling, exuding confidence]  
+Narrator: Unlock the secret to a healthy, beautiful smile. Choose Colgate.  
+
+[Scene: last 5 seconds: A pristine bathroom counter featuring the toothpaste(Colgate) as the focal point]  
+Narrator: Colgate, for a future full of smiles.",2024112623373755.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623373755.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635459&Signature=T7zVZ9291ozl2O1g87xHRWP%2Buu4%3D,3.576,2.809,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmJ8DGePZioAAAAAADU0ng-0_raw_video_1.mp4,1,"Emma(young woman with long brown hair wearing a white robe) smiles widely into the mirror, looking lively as she picks up her toothbrush",not_passed
+0,2,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad in the narrative.
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A bright, sunlit bathroom filled with plants; toothpaste(Colgate) sitting on the counter]  
+Narrator: Start your day with confidence and a radiant smile!  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles widely into the mirror, looking lively as she picks up her toothbrush]  
+Narrator: Emma knows the power of fresh breath and healthy gums.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles brightly, applying toothpaste(Colgate) onto her toothbrush]  
+Narrator: With Colgate, she___ ready to shine all day long.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles and begins to brush the teeth with toothbrush, eyes full of energy]  
+Narrator: Colgate contains breakthrough formulas designed to care for your smile.  
+  
+[Scene: last 5 seconds: Close-up of toothpaste(Colgate) tube as it lies on the sink, invitingly open]  
+Narrator: Colgate provides 12 hours of protection against bacteria and decay.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles at her reflection, showing her gleaming teeth]  
+Narrator: For Emma, every day begins with a fresh start, all thanks to Colgate.  
+  
+[Scene: last 5 seconds: A satisfying shot of Emma(young woman with long brown hair wearing a white robe) smiling, exuding confidence]  
+Narrator: Unlock the secret to a healthy, beautiful smile. Choose Colgate.  
+
+[Scene: last 5 seconds: A pristine bathroom counter featuring the toothpaste(Colgate) as the focal point]  
+Narrator: Colgate, for a future full of smiles.",2024112623373755.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623373755.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635459&Signature=T7zVZ9291ozl2O1g87xHRWP%2Buu4%3D,6.711,2.914,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmBhnmePZ8YAAAAAADUBAQ-0_raw_video_1.mp4,2,"Emma(young woman with long brown hair wearing a white robe) smiles brightly, applying toothpaste(Colgate) onto her toothbrush",not_passed
+0,2,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad in the narrative.
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A bright, sunlit bathroom filled with plants; toothpaste(Colgate) sitting on the counter]  
+Narrator: Start your day with confidence and a radiant smile!  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles widely into the mirror, looking lively as she picks up her toothbrush]  
+Narrator: Emma knows the power of fresh breath and healthy gums.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles brightly, applying toothpaste(Colgate) onto her toothbrush]  
+Narrator: With Colgate, she___ ready to shine all day long.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles and begins to brush the teeth with toothbrush, eyes full of energy]  
+Narrator: Colgate contains breakthrough formulas designed to care for your smile.  
+  
+[Scene: last 5 seconds: Close-up of toothpaste(Colgate) tube as it lies on the sink, invitingly open]  
+Narrator: Colgate provides 12 hours of protection against bacteria and decay.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles at her reflection, showing her gleaming teeth]  
+Narrator: For Emma, every day begins with a fresh start, all thanks to Colgate.  
+  
+[Scene: last 5 seconds: A satisfying shot of Emma(young woman with long brown hair wearing a white robe) smiling, exuding confidence]  
+Narrator: Unlock the secret to a healthy, beautiful smile. Choose Colgate.  
+
+[Scene: last 5 seconds: A pristine bathroom counter featuring the toothpaste(Colgate) as the focal point]  
+Narrator: Colgate, for a future full of smiles.",2024112623373755.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623373755.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635459&Signature=T7zVZ9291ozl2O1g87xHRWP%2Buu4%3D,10.008,3.564,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADUXPw-0_raw_video_1.mp4,3,"Emma(young woman with long brown hair wearing a white robe) smiles and begins to brush the teeth with toothbrush, eyes full of energy",passed
+0,2,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad in the narrative.
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A bright, sunlit bathroom filled with plants; toothpaste(Colgate) sitting on the counter]  
+Narrator: Start your day with confidence and a radiant smile!  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles widely into the mirror, looking lively as she picks up her toothbrush]  
+Narrator: Emma knows the power of fresh breath and healthy gums.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles brightly, applying toothpaste(Colgate) onto her toothbrush]  
+Narrator: With Colgate, she___ ready to shine all day long.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles and begins to brush the teeth with toothbrush, eyes full of energy]  
+Narrator: Colgate contains breakthrough formulas designed to care for your smile.  
+  
+[Scene: last 5 seconds: Close-up of toothpaste(Colgate) tube as it lies on the sink, invitingly open]  
+Narrator: Colgate provides 12 hours of protection against bacteria and decay.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles at her reflection, showing her gleaming teeth]  
+Narrator: For Emma, every day begins with a fresh start, all thanks to Colgate.  
+  
+[Scene: last 5 seconds: A satisfying shot of Emma(young woman with long brown hair wearing a white robe) smiling, exuding confidence]  
+Narrator: Unlock the secret to a healthy, beautiful smile. Choose Colgate.  
+
+[Scene: last 5 seconds: A pristine bathroom counter featuring the toothpaste(Colgate) as the focal point]  
+Narrator: Colgate, for a future full of smiles.",2024112623373755.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623373755.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635459&Signature=T7zVZ9291ozl2O1g87xHRWP%2Buu4%3D,14.083,3.866,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmJ8DGePZioAAAAAADVNyg-0_raw_video_1.mp4,4,"Close-up of toothpaste(Colgate) tube as it lies on the sink, invitingly open",not_passed
+0,2,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad in the narrative.
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A bright, sunlit bathroom filled with plants; toothpaste(Colgate) sitting on the counter]  
+Narrator: Start your day with confidence and a radiant smile!  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles widely into the mirror, looking lively as she picks up her toothbrush]  
+Narrator: Emma knows the power of fresh breath and healthy gums.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles brightly, applying toothpaste(Colgate) onto her toothbrush]  
+Narrator: With Colgate, she___ ready to shine all day long.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles and begins to brush the teeth with toothbrush, eyes full of energy]  
+Narrator: Colgate contains breakthrough formulas designed to care for your smile.  
+  
+[Scene: last 5 seconds: Close-up of toothpaste(Colgate) tube as it lies on the sink, invitingly open]  
+Narrator: Colgate provides 12 hours of protection against bacteria and decay.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles at her reflection, showing her gleaming teeth]  
+Narrator: For Emma, every day begins with a fresh start, all thanks to Colgate.  
+  
+[Scene: last 5 seconds: A satisfying shot of Emma(young woman with long brown hair wearing a white robe) smiling, exuding confidence]  
+Narrator: Unlock the secret to a healthy, beautiful smile. Choose Colgate.  
+
+[Scene: last 5 seconds: A pristine bathroom counter featuring the toothpaste(Colgate) as the focal point]  
+Narrator: Colgate, for a future full of smiles.",2024112623373755.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623373755.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635459&Signature=T7zVZ9291ozl2O1g87xHRWP%2Buu4%3D,18.553,4.899,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADVKTw-0_raw_video_1.mp4,5,"Emma(young woman with long brown hair wearing a white robe) smiles at her reflection, showing her gleaming teeth",passed
+0,2,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad in the narrative.
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A bright, sunlit bathroom filled with plants; toothpaste(Colgate) sitting on the counter]  
+Narrator: Start your day with confidence and a radiant smile!  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles widely into the mirror, looking lively as she picks up her toothbrush]  
+Narrator: Emma knows the power of fresh breath and healthy gums.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles brightly, applying toothpaste(Colgate) onto her toothbrush]  
+Narrator: With Colgate, she___ ready to shine all day long.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles and begins to brush the teeth with toothbrush, eyes full of energy]  
+Narrator: Colgate contains breakthrough formulas designed to care for your smile.  
+  
+[Scene: last 5 seconds: Close-up of toothpaste(Colgate) tube as it lies on the sink, invitingly open]  
+Narrator: Colgate provides 12 hours of protection against bacteria and decay.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles at her reflection, showing her gleaming teeth]  
+Narrator: For Emma, every day begins with a fresh start, all thanks to Colgate.  
+  
+[Scene: last 5 seconds: A satisfying shot of Emma(young woman with long brown hair wearing a white robe) smiling, exuding confidence]  
+Narrator: Unlock the secret to a healthy, beautiful smile. Choose Colgate.  
+
+[Scene: last 5 seconds: A pristine bathroom counter featuring the toothpaste(Colgate) as the focal point]  
+Narrator: Colgate, for a future full of smiles.",2024112623373755.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623373755.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635459&Signature=T7zVZ9291ozl2O1g87xHRWP%2Buu4%3D,24.149,4.203,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADVlOQ-0_raw_video_1.mp4,6,"A satisfying shot of Emma(young woman with long brown hair wearing a white robe) smiling, exuding confidence",passed
+0,2,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad in the narrative.
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A bright, sunlit bathroom filled with plants; toothpaste(Colgate) sitting on the counter]  
+Narrator: Start your day with confidence and a radiant smile!  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles widely into the mirror, looking lively as she picks up her toothbrush]  
+Narrator: Emma knows the power of fresh breath and healthy gums.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles brightly, applying toothpaste(Colgate) onto her toothbrush]  
+Narrator: With Colgate, she___ ready to shine all day long.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles and begins to brush the teeth with toothbrush, eyes full of energy]  
+Narrator: Colgate contains breakthrough formulas designed to care for your smile.  
+  
+[Scene: last 5 seconds: Close-up of toothpaste(Colgate) tube as it lies on the sink, invitingly open]  
+Narrator: Colgate provides 12 hours of protection against bacteria and decay.  
+  
+[Scene: last 5 seconds: Emma(young woman with long brown hair wearing a white robe) smiles at her reflection, showing her gleaming teeth]  
+Narrator: For Emma, every day begins with a fresh start, all thanks to Colgate.  
+  
+[Scene: last 5 seconds: A satisfying shot of Emma(young woman with long brown hair wearing a white robe) smiling, exuding confidence]  
+Narrator: Unlock the secret to a healthy, beautiful smile. Choose Colgate.  
+
+[Scene: last 5 seconds: A pristine bathroom counter featuring the toothpaste(Colgate) as the focal point]  
+Narrator: Colgate, for a future full of smiles.",2024112623373755.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623373755.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635459&Signature=T7zVZ9291ozl2O1g87xHRWP%2Buu4%3D,28.863,2.948,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmJ8DGePZioAAAAAADVobA-0_raw_video_1.mp4,7,A pristine bathroom counter featuring the toothpaste(Colgate) as the focal point,not_passed
+1,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the American Indian and Alaska Native ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit room with earthy decor and traditional native patterns adorning the walls. A toothpaste(Colgate) is placed prominently on a wooden shelf.]  
+Narrator: Meet Maya, a vibrant spirit embracing her roots and dreams.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Thoughtful + Gazes at the toothpaste(Colgate) on the shelf.]  
+Narrator: Living life fully means staying true to her heritage while pursuing her passions.
+
+[Scene: last 7 seconds: Maya(young Native American woman with long black hair) + Smiling + Picks up the toothpaste(Colgate) and holds it confidently.]  
+Narrator: For fresh breath and a radiant smile that lights up every moment, she trusts Colgate.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Content + Walks to the sink with the toothpaste(Colgate) and a colorful toothbrush.]  
+Narrator: A smile isn't just something you wear, it's a symbol of strength that connects past, present, and future.
+
+[Scene: last 8 seconds: Maya(young Native American woman with long black hair) + Energized + Brush the teeth with toothbrush using the toothpaste(Colgate).]  
+Narrator: With Colgate, Maya knows she's ready to face every adventure clean and confident.
+
+[Scene: last 5 seconds: Maya(young Native American woman with long black hair) + Proud + Glances at herself in the mirror with a shining smile.]  
+Narrator: Let your smile reflect your journey. Choose Colgate for a brighter, bolder you.
+
+[Scene: last 4 seconds: The toothpaste(Colgate) sits back on the wooden shelf as sunlight dances across the room.]  
+Narrator: Colgate _?for smiles as bold as your dreams.",2024112623374727.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623374727.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635469&Signature=SJtrDtUMsF%2FOkY3ZjqDF73hCnw4%3D,0.0,4.238,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmJ8DGePZioAAAAAADVofw-0_raw_video_1.mp4,0,"A cozy, sunlit room with earthy decor and traditional native patterns adorning the walls. A toothpaste(Colgate) is placed prominently on a wooden shelf.",not_passed
+1,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the American Indian and Alaska Native ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit room with earthy decor and traditional native patterns adorning the walls. A toothpaste(Colgate) is placed prominently on a wooden shelf.]  
+Narrator: Meet Maya, a vibrant spirit embracing her roots and dreams.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Thoughtful + Gazes at the toothpaste(Colgate) on the shelf.]  
+Narrator: Living life fully means staying true to her heritage while pursuing her passions.
+
+[Scene: last 7 seconds: Maya(young Native American woman with long black hair) + Smiling + Picks up the toothpaste(Colgate) and holds it confidently.]  
+Narrator: For fresh breath and a radiant smile that lights up every moment, she trusts Colgate.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Content + Walks to the sink with the toothpaste(Colgate) and a colorful toothbrush.]  
+Narrator: A smile isn't just something you wear, it's a symbol of strength that connects past, present, and future.
+
+[Scene: last 8 seconds: Maya(young Native American woman with long black hair) + Energized + Brush the teeth with toothbrush using the toothpaste(Colgate).]  
+Narrator: With Colgate, Maya knows she's ready to face every adventure clean and confident.
+
+[Scene: last 5 seconds: Maya(young Native American woman with long black hair) + Proud + Glances at herself in the mirror with a shining smile.]  
+Narrator: Let your smile reflect your journey. Choose Colgate for a brighter, bolder you.
+
+[Scene: last 4 seconds: The toothpaste(Colgate) sits back on the wooden shelf as sunlight dances across the room.]  
+Narrator: Colgate _?for smiles as bold as your dreams.",2024112623374727.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623374727.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635469&Signature=SJtrDtUMsF%2FOkY3ZjqDF73hCnw4%3D,4.934,4.18,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmBhnmePZ8YAAAAAADVMyA-0_raw_video_1.mp4,1,Maya(young Native American woman with long black hair) + Thoughtful + Gazes at the toothpaste(Colgate) on the shelf.,not_passed
+1,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the American Indian and Alaska Native ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit room with earthy decor and traditional native patterns adorning the walls. A toothpaste(Colgate) is placed prominently on a wooden shelf.]  
+Narrator: Meet Maya, a vibrant spirit embracing her roots and dreams.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Thoughtful + Gazes at the toothpaste(Colgate) on the shelf.]  
+Narrator: Living life fully means staying true to her heritage while pursuing her passions.
+
+[Scene: last 7 seconds: Maya(young Native American woman with long black hair) + Smiling + Picks up the toothpaste(Colgate) and holds it confidently.]  
+Narrator: For fresh breath and a radiant smile that lights up every moment, she trusts Colgate.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Content + Walks to the sink with the toothpaste(Colgate) and a colorful toothbrush.]  
+Narrator: A smile isn't just something you wear, it's a symbol of strength that connects past, present, and future.
+
+[Scene: last 8 seconds: Maya(young Native American woman with long black hair) + Energized + Brush the teeth with toothbrush using the toothpaste(Colgate).]  
+Narrator: With Colgate, Maya knows she's ready to face every adventure clean and confident.
+
+[Scene: last 5 seconds: Maya(young Native American woman with long black hair) + Proud + Glances at herself in the mirror with a shining smile.]  
+Narrator: Let your smile reflect your journey. Choose Colgate for a brighter, bolder you.
+
+[Scene: last 4 seconds: The toothpaste(Colgate) sits back on the wooden shelf as sunlight dances across the room.]  
+Narrator: Colgate _?for smiles as bold as your dreams.",2024112623374727.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623374727.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635469&Signature=SJtrDtUMsF%2FOkY3ZjqDF73hCnw4%3D,9.718,5.41,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADV-Cw-0_raw_video_1.mp4,2,Maya(young Native American woman with long black hair) + Smiling + Picks up the toothpaste(Colgate) and holds it confidently.,not_passed
+1,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the American Indian and Alaska Native ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit room with earthy decor and traditional native patterns adorning the walls. A toothpaste(Colgate) is placed prominently on a wooden shelf.]  
+Narrator: Meet Maya, a vibrant spirit embracing her roots and dreams.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Thoughtful + Gazes at the toothpaste(Colgate) on the shelf.]  
+Narrator: Living life fully means staying true to her heritage while pursuing her passions.
+
+[Scene: last 7 seconds: Maya(young Native American woman with long black hair) + Smiling + Picks up the toothpaste(Colgate) and holds it confidently.]  
+Narrator: For fresh breath and a radiant smile that lights up every moment, she trusts Colgate.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Content + Walks to the sink with the toothpaste(Colgate) and a colorful toothbrush.]  
+Narrator: A smile isn't just something you wear, it's a symbol of strength that connects past, present, and future.
+
+[Scene: last 8 seconds: Maya(young Native American woman with long black hair) + Energized + Brush the teeth with toothbrush using the toothpaste(Colgate).]  
+Narrator: With Colgate, Maya knows she's ready to face every adventure clean and confident.
+
+[Scene: last 5 seconds: Maya(young Native American woman with long black hair) + Proud + Glances at herself in the mirror with a shining smile.]  
+Narrator: Let your smile reflect your journey. Choose Colgate for a brighter, bolder you.
+
+[Scene: last 4 seconds: The toothpaste(Colgate) sits back on the wooden shelf as sunlight dances across the room.]  
+Narrator: Colgate _?for smiles as bold as your dreams.",2024112623374727.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623374727.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635469&Signature=SJtrDtUMsF%2FOkY3ZjqDF73hCnw4%3D,15.732,5.77,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADV-FA-0_raw_video_1.mp4,3,Maya(young Native American woman with long black hair) + Content + Walks to the sink with the toothpaste(Colgate) and a colorful toothbrush.,not_passed
+1,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the American Indian and Alaska Native ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit room with earthy decor and traditional native patterns adorning the walls. A toothpaste(Colgate) is placed prominently on a wooden shelf.]  
+Narrator: Meet Maya, a vibrant spirit embracing her roots and dreams.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Thoughtful + Gazes at the toothpaste(Colgate) on the shelf.]  
+Narrator: Living life fully means staying true to her heritage while pursuing her passions.
+
+[Scene: last 7 seconds: Maya(young Native American woman with long black hair) + Smiling + Picks up the toothpaste(Colgate) and holds it confidently.]  
+Narrator: For fresh breath and a radiant smile that lights up every moment, she trusts Colgate.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Content + Walks to the sink with the toothpaste(Colgate) and a colorful toothbrush.]  
+Narrator: A smile isn't just something you wear, it's a symbol of strength that connects past, present, and future.
+
+[Scene: last 8 seconds: Maya(young Native American woman with long black hair) + Energized + Brush the teeth with toothbrush using the toothpaste(Colgate).]  
+Narrator: With Colgate, Maya knows she's ready to face every adventure clean and confident.
+
+[Scene: last 5 seconds: Maya(young Native American woman with long black hair) + Proud + Glances at herself in the mirror with a shining smile.]  
+Narrator: Let your smile reflect your journey. Choose Colgate for a brighter, bolder you.
+
+[Scene: last 4 seconds: The toothpaste(Colgate) sits back on the wooden shelf as sunlight dances across the room.]  
+Narrator: Colgate _?for smiles as bold as your dreams.",2024112623374727.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623374727.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635469&Signature=SJtrDtUMsF%2FOkY3ZjqDF73hCnw4%3D,21.885,4.69,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmBhnmePZ8YAAAAAADVi2Q-0_raw_video_1.mp4,4,Maya(young Native American woman with long black hair) + Energized + Brush the teeth with toothbrush using the toothpaste(Colgate).,not_passed
+1,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the American Indian and Alaska Native ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit room with earthy decor and traditional native patterns adorning the walls. A toothpaste(Colgate) is placed prominently on a wooden shelf.]  
+Narrator: Meet Maya, a vibrant spirit embracing her roots and dreams.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Thoughtful + Gazes at the toothpaste(Colgate) on the shelf.]  
+Narrator: Living life fully means staying true to her heritage while pursuing her passions.
+
+[Scene: last 7 seconds: Maya(young Native American woman with long black hair) + Smiling + Picks up the toothpaste(Colgate) and holds it confidently.]  
+Narrator: For fresh breath and a radiant smile that lights up every moment, she trusts Colgate.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Content + Walks to the sink with the toothpaste(Colgate) and a colorful toothbrush.]  
+Narrator: A smile isn't just something you wear, it's a symbol of strength that connects past, present, and future.
+
+[Scene: last 8 seconds: Maya(young Native American woman with long black hair) + Energized + Brush the teeth with toothbrush using the toothpaste(Colgate).]  
+Narrator: With Colgate, Maya knows she's ready to face every adventure clean and confident.
+
+[Scene: last 5 seconds: Maya(young Native American woman with long black hair) + Proud + Glances at herself in the mirror with a shining smile.]  
+Narrator: Let your smile reflect your journey. Choose Colgate for a brighter, bolder you.
+
+[Scene: last 4 seconds: The toothpaste(Colgate) sits back on the wooden shelf as sunlight dances across the room.]  
+Narrator: Colgate _?for smiles as bold as your dreams.",2024112623374727.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623374727.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635469&Signature=SJtrDtUMsF%2FOkY3ZjqDF73hCnw4%3D,26.854,5.283,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADVsgQ-0_raw_video_1.mp4,5,Maya(young Native American woman with long black hair) + Proud + Glances at herself in the mirror with a shining smile.,passed
+1,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the American Indian and Alaska Native ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit room with earthy decor and traditional native patterns adorning the walls. A toothpaste(Colgate) is placed prominently on a wooden shelf.]  
+Narrator: Meet Maya, a vibrant spirit embracing her roots and dreams.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Thoughtful + Gazes at the toothpaste(Colgate) on the shelf.]  
+Narrator: Living life fully means staying true to her heritage while pursuing her passions.
+
+[Scene: last 7 seconds: Maya(young Native American woman with long black hair) + Smiling + Picks up the toothpaste(Colgate) and holds it confidently.]  
+Narrator: For fresh breath and a radiant smile that lights up every moment, she trusts Colgate.
+
+[Scene: last 6 seconds: Maya(young Native American woman with long black hair) + Content + Walks to the sink with the toothpaste(Colgate) and a colorful toothbrush.]  
+Narrator: A smile isn't just something you wear, it's a symbol of strength that connects past, present, and future.
+
+[Scene: last 8 seconds: Maya(young Native American woman with long black hair) + Energized + Brush the teeth with toothbrush using the toothpaste(Colgate).]  
+Narrator: With Colgate, Maya knows she's ready to face every adventure clean and confident.
+
+[Scene: last 5 seconds: Maya(young Native American woman with long black hair) + Proud + Glances at herself in the mirror with a shining smile.]  
+Narrator: Let your smile reflect your journey. Choose Colgate for a brighter, bolder you.
+
+[Scene: last 4 seconds: The toothpaste(Colgate) sits back on the wooden shelf as sunlight dances across the room.]  
+Narrator: Colgate _?for smiles as bold as your dreams.",2024112623374727.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623374727.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635469&Signature=SJtrDtUMsF%2FOkY3ZjqDF73hCnw4%3D,32.416,3.251,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADWgJA-0_raw_video_1.mp4,6,The toothpaste(Colgate) sits back on the wooden shelf as sunlight dances across the room.,not_passed
+2,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Asian ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 8 seconds: A cozy, minimalistic apartment bedroom filled with soft pastel colors. Morning sunlight streams through sheer curtains, creating a warm glow.]
+
+Narrator: Meet Priya, a vibrant and busy college student who's always on the go.
+
+[Scene: last 10 seconds: Priya (young Asian female with long, flowing hair, dressed in casual home wear) standing in front of a mirror in the bathroom.]
+
+Narrator: Her day starts fresh and energized with that sparkle of confidence...
+
+[Scene: last 8 seconds: Priya + a determined look + picking up a toothpaste(Colgate) from the counter.]
+
+Narrator: ...because every morning, Priya chooses Colgate.
+
+[Scene: last 10 seconds: A close-up shot of Priya + a focused expression + squeezing a pea-sized amount of toothpaste(Colgate) onto her toothbrush.]
+
+Narrator: Colgate fights cavities and keeps her smile bright without breaking the budget.
+
+[Scene: last 12 seconds: Priya + a relaxed expression + brushing her teeth with toothbrush, a backdrop of vibrant motivational posters on the bathroom wall.]
+
+Narrator: With her smile ready to take on the day, Priya knows that sometimes, the best things come in small packages.
+
+[Scene: last 8 seconds: Quick compilation of Priya + a joyful grin + holding the toothpaste(Colgate) up with confidence.]
+
+Narrator: Choose Colgate. Let your smile shine, no matter where you go.
+
+[Scene: last 8 seconds: End screen displaying the Colgate logo with a catchy slogan: ""Brighten Your Day, You Deserve It.""]
+
+Narrator: Colgate. Because your smile is priceless.",2024112623375788.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623375788.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635478&Signature=1qyjT%2FcJ5%2FMYyR9DzA3cSeLa5gw%3D,0.0,4.005,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmBhnmePZ8YAAAAAADV5Ig-0_raw_video_1.mp4,0,"A cozy, minimalistic apartment bedroom filled with soft pastel colors. Morning sunlight streams through sheer curtains, creating a warm glow.",passed
+2,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Asian ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 8 seconds: A cozy, minimalistic apartment bedroom filled with soft pastel colors. Morning sunlight streams through sheer curtains, creating a warm glow.]
+
+Narrator: Meet Priya, a vibrant and busy college student who's always on the go.
+
+[Scene: last 10 seconds: Priya (young Asian female with long, flowing hair, dressed in casual home wear) standing in front of a mirror in the bathroom.]
+
+Narrator: Her day starts fresh and energized with that sparkle of confidence...
+
+[Scene: last 8 seconds: Priya + a determined look + picking up a toothpaste(Colgate) from the counter.]
+
+Narrator: ...because every morning, Priya chooses Colgate.
+
+[Scene: last 10 seconds: A close-up shot of Priya + a focused expression + squeezing a pea-sized amount of toothpaste(Colgate) onto her toothbrush.]
+
+Narrator: Colgate fights cavities and keeps her smile bright without breaking the budget.
+
+[Scene: last 12 seconds: Priya + a relaxed expression + brushing her teeth with toothbrush, a backdrop of vibrant motivational posters on the bathroom wall.]
+
+Narrator: With her smile ready to take on the day, Priya knows that sometimes, the best things come in small packages.
+
+[Scene: last 8 seconds: Quick compilation of Priya + a joyful grin + holding the toothpaste(Colgate) up with confidence.]
+
+Narrator: Choose Colgate. Let your smile shine, no matter where you go.
+
+[Scene: last 8 seconds: End screen displaying the Colgate logo with a catchy slogan: ""Brighten Your Day, You Deserve It.""]
+
+Narrator: Colgate. Because your smile is priceless.",2024112623375788.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623375788.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635478&Signature=1qyjT%2FcJ5%2FMYyR9DzA3cSeLa5gw%3D,4.447,3.715,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmBhnmePZ8YAAAAAADWEfg-0_raw_video_1.mp4,1,"Priya (young Asian female with long, flowing hair, dressed in casual home wear) standing in front of a mirror in the bathroom.",passed
+2,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Asian ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 8 seconds: A cozy, minimalistic apartment bedroom filled with soft pastel colors. Morning sunlight streams through sheer curtains, creating a warm glow.]
+
+Narrator: Meet Priya, a vibrant and busy college student who's always on the go.
+
+[Scene: last 10 seconds: Priya (young Asian female with long, flowing hair, dressed in casual home wear) standing in front of a mirror in the bathroom.]
+
+Narrator: Her day starts fresh and energized with that sparkle of confidence...
+
+[Scene: last 8 seconds: Priya + a determined look + picking up a toothpaste(Colgate) from the counter.]
+
+Narrator: ...because every morning, Priya chooses Colgate.
+
+[Scene: last 10 seconds: A close-up shot of Priya + a focused expression + squeezing a pea-sized amount of toothpaste(Colgate) onto her toothbrush.]
+
+Narrator: Colgate fights cavities and keeps her smile bright without breaking the budget.
+
+[Scene: last 12 seconds: Priya + a relaxed expression + brushing her teeth with toothbrush, a backdrop of vibrant motivational posters on the bathroom wall.]
+
+Narrator: With her smile ready to take on the day, Priya knows that sometimes, the best things come in small packages.
+
+[Scene: last 8 seconds: Quick compilation of Priya + a joyful grin + holding the toothpaste(Colgate) up with confidence.]
+
+Narrator: Choose Colgate. Let your smile shine, no matter where you go.
+
+[Scene: last 8 seconds: End screen displaying the Colgate logo with a catchy slogan: ""Brighten Your Day, You Deserve It.""]
+
+Narrator: Colgate. Because your smile is priceless.",2024112623375788.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623375788.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635478&Signature=1qyjT%2FcJ5%2FMYyR9DzA3cSeLa5gw%3D,8.22,3.251,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADWMTw-0_raw_video_1.mp4,2,Priya + a determined look + picking up a toothpaste(Colgate) from the counter.,not_passed
+2,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Asian ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 8 seconds: A cozy, minimalistic apartment bedroom filled with soft pastel colors. Morning sunlight streams through sheer curtains, creating a warm glow.]
+
+Narrator: Meet Priya, a vibrant and busy college student who's always on the go.
+
+[Scene: last 10 seconds: Priya (young Asian female with long, flowing hair, dressed in casual home wear) standing in front of a mirror in the bathroom.]
+
+Narrator: Her day starts fresh and energized with that sparkle of confidence...
+
+[Scene: last 8 seconds: Priya + a determined look + picking up a toothpaste(Colgate) from the counter.]
+
+Narrator: ...because every morning, Priya chooses Colgate.
+
+[Scene: last 10 seconds: A close-up shot of Priya + a focused expression + squeezing a pea-sized amount of toothpaste(Colgate) onto her toothbrush.]
+
+Narrator: Colgate fights cavities and keeps her smile bright without breaking the budget.
+
+[Scene: last 12 seconds: Priya + a relaxed expression + brushing her teeth with toothbrush, a backdrop of vibrant motivational posters on the bathroom wall.]
+
+Narrator: With her smile ready to take on the day, Priya knows that sometimes, the best things come in small packages.
+
+[Scene: last 8 seconds: Quick compilation of Priya + a joyful grin + holding the toothpaste(Colgate) up with confidence.]
+
+Narrator: Choose Colgate. Let your smile shine, no matter where you go.
+
+[Scene: last 8 seconds: End screen displaying the Colgate logo with a catchy slogan: ""Brighten Your Day, You Deserve It.""]
+
+Narrator: Colgate. Because your smile is priceless.",2024112623375788.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623375788.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635478&Signature=1qyjT%2FcJ5%2FMYyR9DzA3cSeLa5gw%3D,11.714,3.763,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADWP2Q-0_raw_video_1.mp4,3,A close-up shot of Priya + a focused expression + squeezing a pea-sized amount of toothpaste(Colgate) onto her toothbrush.,not_passed
+2,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Asian ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 8 seconds: A cozy, minimalistic apartment bedroom filled with soft pastel colors. Morning sunlight streams through sheer curtains, creating a warm glow.]
+
+Narrator: Meet Priya, a vibrant and busy college student who's always on the go.
+
+[Scene: last 10 seconds: Priya (young Asian female with long, flowing hair, dressed in casual home wear) standing in front of a mirror in the bathroom.]
+
+Narrator: Her day starts fresh and energized with that sparkle of confidence...
+
+[Scene: last 8 seconds: Priya + a determined look + picking up a toothpaste(Colgate) from the counter.]
+
+Narrator: ...because every morning, Priya chooses Colgate.
+
+[Scene: last 10 seconds: A close-up shot of Priya + a focused expression + squeezing a pea-sized amount of toothpaste(Colgate) onto her toothbrush.]
+
+Narrator: Colgate fights cavities and keeps her smile bright without breaking the budget.
+
+[Scene: last 12 seconds: Priya + a relaxed expression + brushing her teeth with toothbrush, a backdrop of vibrant motivational posters on the bathroom wall.]
+
+Narrator: With her smile ready to take on the day, Priya knows that sometimes, the best things come in small packages.
+
+[Scene: last 8 seconds: Quick compilation of Priya + a joyful grin + holding the toothpaste(Colgate) up with confidence.]
+
+Narrator: Choose Colgate. Let your smile shine, no matter where you go.
+
+[Scene: last 8 seconds: End screen displaying the Colgate logo with a catchy slogan: ""Brighten Your Day, You Deserve It.""]
+
+Narrator: Colgate. Because your smile is priceless.",2024112623375788.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623375788.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635478&Signature=1qyjT%2FcJ5%2FMYyR9DzA3cSeLa5gw%3D,15.802,6.339,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADWY9w-0_raw_video_1.mp4,4,"Priya + a relaxed expression + brushing her teeth with toothbrush, a backdrop of vibrant motivational posters on the bathroom wall.",passed
+2,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Asian ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 8 seconds: A cozy, minimalistic apartment bedroom filled with soft pastel colors. Morning sunlight streams through sheer curtains, creating a warm glow.]
+
+Narrator: Meet Priya, a vibrant and busy college student who's always on the go.
+
+[Scene: last 10 seconds: Priya (young Asian female with long, flowing hair, dressed in casual home wear) standing in front of a mirror in the bathroom.]
+
+Narrator: Her day starts fresh and energized with that sparkle of confidence...
+
+[Scene: last 8 seconds: Priya + a determined look + picking up a toothpaste(Colgate) from the counter.]
+
+Narrator: ...because every morning, Priya chooses Colgate.
+
+[Scene: last 10 seconds: A close-up shot of Priya + a focused expression + squeezing a pea-sized amount of toothpaste(Colgate) onto her toothbrush.]
+
+Narrator: Colgate fights cavities and keeps her smile bright without breaking the budget.
+
+[Scene: last 12 seconds: Priya + a relaxed expression + brushing her teeth with toothbrush, a backdrop of vibrant motivational posters on the bathroom wall.]
+
+Narrator: With her smile ready to take on the day, Priya knows that sometimes, the best things come in small packages.
+
+[Scene: last 8 seconds: Quick compilation of Priya + a joyful grin + holding the toothpaste(Colgate) up with confidence.]
+
+Narrator: Choose Colgate. Let your smile shine, no matter where you go.
+
+[Scene: last 8 seconds: End screen displaying the Colgate logo with a catchy slogan: ""Brighten Your Day, You Deserve It.""]
+
+Narrator: Colgate. Because your smile is priceless.",2024112623375788.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623375788.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635478&Signature=1qyjT%2FcJ5%2FMYyR9DzA3cSeLa5gw%3D,22.524,4.284,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADWjMg-0_raw_video_1.mp4,5,Quick compilation of Priya + a joyful grin + holding the toothpaste(Colgate) up with confidence.,not_passed
+2,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Asian ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 8 seconds: A cozy, minimalistic apartment bedroom filled with soft pastel colors. Morning sunlight streams through sheer curtains, creating a warm glow.]
+
+Narrator: Meet Priya, a vibrant and busy college student who's always on the go.
+
+[Scene: last 10 seconds: Priya (young Asian female with long, flowing hair, dressed in casual home wear) standing in front of a mirror in the bathroom.]
+
+Narrator: Her day starts fresh and energized with that sparkle of confidence...
+
+[Scene: last 8 seconds: Priya + a determined look + picking up a toothpaste(Colgate) from the counter.]
+
+Narrator: ...because every morning, Priya chooses Colgate.
+
+[Scene: last 10 seconds: A close-up shot of Priya + a focused expression + squeezing a pea-sized amount of toothpaste(Colgate) onto her toothbrush.]
+
+Narrator: Colgate fights cavities and keeps her smile bright without breaking the budget.
+
+[Scene: last 12 seconds: Priya + a relaxed expression + brushing her teeth with toothbrush, a backdrop of vibrant motivational posters on the bathroom wall.]
+
+Narrator: With her smile ready to take on the day, Priya knows that sometimes, the best things come in small packages.
+
+[Scene: last 8 seconds: Quick compilation of Priya + a joyful grin + holding the toothpaste(Colgate) up with confidence.]
+
+Narrator: Choose Colgate. Let your smile shine, no matter where you go.
+
+[Scene: last 8 seconds: End screen displaying the Colgate logo with a catchy slogan: ""Brighten Your Day, You Deserve It.""]
+
+Narrator: Colgate. Because your smile is priceless.",2024112623375788.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623375788.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635478&Signature=1qyjT%2FcJ5%2FMYyR9DzA3cSeLa5gw%3D,27.087,3.75,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADWkag-0_raw_video_1.mp4,6,"End screen displaying the Colgate logo with a catchy slogan: ""Brighten Your Day, You Deserve It.""",not_passed
+3,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Black or African American ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit bathroom with bright, colorful towels. Maya (young Black woman with natural curls, wearing a casual t-shirt) looks confidently into the mirror.]
+Narrator: A fresh start begins with a confident smile.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) grabs the toothpaste(Colgate) from the shelf, her face glowing with determination.]
+Narrator: Colgate brings you the care you need___ithout breaking the bank.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) applies the toothpaste(Colgate) to her toothbrush, a satisfied smile forming.]
+Narrator: Brush the teeth with toothbrush, knowing Colgate___ protection has your back, every time.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) brushes her teeth with toothbrush, her eyes focused and her movements deliberate.]
+Narrator: Clean, fresh, and ready to take on the world, without worrying about your budget.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) rinses her mouth and flashes a bright, proud smile at her reflection.]
+Narrator: Colgate___aking your smile your greatest asset, no matter where you___e headed.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) places the toothpaste(Colgate) back on the shelf, stepping out of the bathroom with confidence.]
+Narrator: Get more from your day, with Colgate by your side.",2024112623380476.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623380476.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635486&Signature=bbYXYKQ27UCJyZ3tGCoJX29jz2s%3D,0.0,2.786,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADW4rQ-0_raw_video_1.mp4,0,"A cozy, sunlit bathroom with bright, colorful towels. Maya (young Black woman with natural curls, wearing a casual t-shirt) looks confidently into the mirror.",passed
+3,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Black or African American ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit bathroom with bright, colorful towels. Maya (young Black woman with natural curls, wearing a casual t-shirt) looks confidently into the mirror.]
+Narrator: A fresh start begins with a confident smile.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) grabs the toothpaste(Colgate) from the shelf, her face glowing with determination.]
+Narrator: Colgate brings you the care you need___ithout breaking the bank.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) applies the toothpaste(Colgate) to her toothbrush, a satisfied smile forming.]
+Narrator: Brush the teeth with toothbrush, knowing Colgate___ protection has your back, every time.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) brushes her teeth with toothbrush, her eyes focused and her movements deliberate.]
+Narrator: Clean, fresh, and ready to take on the world, without worrying about your budget.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) rinses her mouth and flashes a bright, proud smile at her reflection.]
+Narrator: Colgate___aking your smile your greatest asset, no matter where you___e headed.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) places the toothpaste(Colgate) back on the shelf, stepping out of the bathroom with confidence.]
+Narrator: Get more from your day, with Colgate by your side.",2024112623380476.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623380476.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635486&Signature=bbYXYKQ27UCJyZ3tGCoJX29jz2s%3D,3.39,3.263,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADXtPw-0_raw_video_1.mp4,1,"Maya (young Black woman with natural curls, wearing a casual t-shirt) grabs the toothpaste(Colgate) from the shelf, her face glowing with determination.",not_passed
+3,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Black or African American ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit bathroom with bright, colorful towels. Maya (young Black woman with natural curls, wearing a casual t-shirt) looks confidently into the mirror.]
+Narrator: A fresh start begins with a confident smile.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) grabs the toothpaste(Colgate) from the shelf, her face glowing with determination.]
+Narrator: Colgate brings you the care you need___ithout breaking the bank.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) applies the toothpaste(Colgate) to her toothbrush, a satisfied smile forming.]
+Narrator: Brush the teeth with toothbrush, knowing Colgate___ protection has your back, every time.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) brushes her teeth with toothbrush, her eyes focused and her movements deliberate.]
+Narrator: Clean, fresh, and ready to take on the world, without worrying about your budget.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) rinses her mouth and flashes a bright, proud smile at her reflection.]
+Narrator: Colgate___aking your smile your greatest asset, no matter where you___e headed.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) places the toothpaste(Colgate) back on the shelf, stepping out of the bathroom with confidence.]
+Narrator: Get more from your day, with Colgate by your side.",2024112623380476.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623380476.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635486&Signature=bbYXYKQ27UCJyZ3tGCoJX29jz2s%3D,7.036,4.841,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADW52g-0_raw_video_1.mp4,2,"Maya (young Black woman with natural curls, wearing a casual t-shirt) applies the toothpaste(Colgate) to her toothbrush, a satisfied smile forming.",not_passed
+3,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Black or African American ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit bathroom with bright, colorful towels. Maya (young Black woman with natural curls, wearing a casual t-shirt) looks confidently into the mirror.]
+Narrator: A fresh start begins with a confident smile.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) grabs the toothpaste(Colgate) from the shelf, her face glowing with determination.]
+Narrator: Colgate brings you the care you need___ithout breaking the bank.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) applies the toothpaste(Colgate) to her toothbrush, a satisfied smile forming.]
+Narrator: Brush the teeth with toothbrush, knowing Colgate___ protection has your back, every time.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) brushes her teeth with toothbrush, her eyes focused and her movements deliberate.]
+Narrator: Clean, fresh, and ready to take on the world, without worrying about your budget.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) rinses her mouth and flashes a bright, proud smile at her reflection.]
+Narrator: Colgate___aking your smile your greatest asset, no matter where you___e headed.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) places the toothpaste(Colgate) back on the shelf, stepping out of the bathroom with confidence.]
+Narrator: Get more from your day, with Colgate by your side.",2024112623380476.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623380476.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635486&Signature=bbYXYKQ27UCJyZ3tGCoJX29jz2s%3D,12.388,5.758,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmBhnmePZ8YAAAAAADXSNg-0_raw_video_1.mp4,3,"Maya (young Black woman with natural curls, wearing a casual t-shirt) brushes her teeth with toothbrush, her eyes focused and her movements deliberate.",passed
+3,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Black or African American ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit bathroom with bright, colorful towels. Maya (young Black woman with natural curls, wearing a casual t-shirt) looks confidently into the mirror.]
+Narrator: A fresh start begins with a confident smile.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) grabs the toothpaste(Colgate) from the shelf, her face glowing with determination.]
+Narrator: Colgate brings you the care you need___ithout breaking the bank.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) applies the toothpaste(Colgate) to her toothbrush, a satisfied smile forming.]
+Narrator: Brush the teeth with toothbrush, knowing Colgate___ protection has your back, every time.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) brushes her teeth with toothbrush, her eyes focused and her movements deliberate.]
+Narrator: Clean, fresh, and ready to take on the world, without worrying about your budget.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) rinses her mouth and flashes a bright, proud smile at her reflection.]
+Narrator: Colgate___aking your smile your greatest asset, no matter where you___e headed.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) places the toothpaste(Colgate) back on the shelf, stepping out of the bathroom with confidence.]
+Narrator: Get more from your day, with Colgate by your side.",2024112623380476.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623380476.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635486&Signature=bbYXYKQ27UCJyZ3tGCoJX29jz2s%3D,19.098,4.493,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADYEtA-0_raw_video_1.mp4,4,"Maya (young Black woman with natural curls, wearing a casual t-shirt) rinses her mouth and flashes a bright, proud smile at her reflection.",passed
+3,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Black or African American ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A cozy, sunlit bathroom with bright, colorful towels. Maya (young Black woman with natural curls, wearing a casual t-shirt) looks confidently into the mirror.]
+Narrator: A fresh start begins with a confident smile.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) grabs the toothpaste(Colgate) from the shelf, her face glowing with determination.]
+Narrator: Colgate brings you the care you need___ithout breaking the bank.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) applies the toothpaste(Colgate) to her toothbrush, a satisfied smile forming.]
+Narrator: Brush the teeth with toothbrush, knowing Colgate___ protection has your back, every time.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) brushes her teeth with toothbrush, her eyes focused and her movements deliberate.]
+Narrator: Clean, fresh, and ready to take on the world, without worrying about your budget.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) rinses her mouth and flashes a bright, proud smile at her reflection.]
+Narrator: Colgate___aking your smile your greatest asset, no matter where you___e headed.
+
+[Scene: last 5 seconds: Maya (young Black woman with natural curls, wearing a casual t-shirt) places the toothpaste(Colgate) back on the shelf, stepping out of the bathroom with confidence.]
+Narrator: Get more from your day, with Colgate by your side.",2024112623380476.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623380476.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635486&Signature=bbYXYKQ27UCJyZ3tGCoJX29jz2s%3D,24.288,3.065,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADYEvw-0_raw_video_1.mp4,5,"Maya (young Black woman with natural curls, wearing a casual t-shirt) places the toothpaste(Colgate) back on the shelf, stepping out of the bathroom with confidence.",passed
+4,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Native Hawaiian and Other Pacific Islander ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: Bright beach scenery, waves gently crashing against the shore.]
+
+Narrator: ""In the heart of the Pacific, where the sun kisses the ocean and smiles are as warm as the sand...""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Smiling warmly + Holding a toothpaste(Colgate) on the beach.]
+
+Narrator: ""...Lani knows that a radiant smile starts with the right care.""
+
+[Scene: last 5 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Feeling determined + Walking towards the ocean.]
+
+Narrator: ""Living life to the fullest, she seeks products that understand her world.""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Grinning confidently + Brushing her teeth with toothbrush on the beach.]
+
+Narrator: ""With Colgate, she finds the confidence to shine bright, even when she's on a tight budget.""
+
+[Scene: last 6 seconds: A close-up of Lani's gleaming smile and the toothpaste(Colgate) in hand, gentle tides flowing in the background.]
+
+Narrator: ""Because every Pacific Islander deserves a smile that reflects their vibrant culture and unstoppable spirit.""
+
+[Scene: last 3 seconds: Lani's free-spirited laughter echoes across the ocean as she stands with toothpaste(Colgate) in hand.]
+
+Narrator: ""Colgate___ecause your smile, Lani, lights up the world.""",2024112623381499.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623381499.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635496&Signature=9tBgvDVzgrG9KV%2BuDhSy6Q9x7eI%3D,0.0,5.283,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADYctQ-0_raw_video_1.mp4,0,"Bright beach scenery, waves gently crashing against the shore.",passed
+4,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Native Hawaiian and Other Pacific Islander ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: Bright beach scenery, waves gently crashing against the shore.]
+
+Narrator: ""In the heart of the Pacific, where the sun kisses the ocean and smiles are as warm as the sand...""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Smiling warmly + Holding a toothpaste(Colgate) on the beach.]
+
+Narrator: ""...Lani knows that a radiant smile starts with the right care.""
+
+[Scene: last 5 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Feeling determined + Walking towards the ocean.]
+
+Narrator: ""Living life to the fullest, she seeks products that understand her world.""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Grinning confidently + Brushing her teeth with toothbrush on the beach.]
+
+Narrator: ""With Colgate, she finds the confidence to shine bright, even when she's on a tight budget.""
+
+[Scene: last 6 seconds: A close-up of Lani's gleaming smile and the toothpaste(Colgate) in hand, gentle tides flowing in the background.]
+
+Narrator: ""Because every Pacific Islander deserves a smile that reflects their vibrant culture and unstoppable spirit.""
+
+[Scene: last 3 seconds: Lani's free-spirited laughter echoes across the ocean as she stands with toothpaste(Colgate) in hand.]
+
+Narrator: ""Colgate___ecause your smile, Lani, lights up the world.""",2024112623381499.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623381499.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635496&Signature=9tBgvDVzgrG9KV%2BuDhSy6Q9x7eI%3D,5.886,3.785,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADXpGg-0_raw_video_1.mp4,1,"Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Smiling warmly + Holding a toothpaste(Colgate) on the beach.",passed
+4,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Native Hawaiian and Other Pacific Islander ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: Bright beach scenery, waves gently crashing against the shore.]
+
+Narrator: ""In the heart of the Pacific, where the sun kisses the ocean and smiles are as warm as the sand...""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Smiling warmly + Holding a toothpaste(Colgate) on the beach.]
+
+Narrator: ""...Lani knows that a radiant smile starts with the right care.""
+
+[Scene: last 5 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Feeling determined + Walking towards the ocean.]
+
+Narrator: ""Living life to the fullest, she seeks products that understand her world.""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Grinning confidently + Brushing her teeth with toothbrush on the beach.]
+
+Narrator: ""With Colgate, she finds the confidence to shine bright, even when she's on a tight budget.""
+
+[Scene: last 6 seconds: A close-up of Lani's gleaming smile and the toothpaste(Colgate) in hand, gentle tides flowing in the background.]
+
+Narrator: ""Because every Pacific Islander deserves a smile that reflects their vibrant culture and unstoppable spirit.""
+
+[Scene: last 3 seconds: Lani's free-spirited laughter echoes across the ocean as she stands with toothpaste(Colgate) in hand.]
+
+Narrator: ""Colgate___ecause your smile, Lani, lights up the world.""",2024112623381499.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623381499.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635496&Signature=9tBgvDVzgrG9KV%2BuDhSy6Q9x7eI%3D,10.275,4.144,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADYn5g-0_raw_video_1.mp4,2,"Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Feeling determined + Walking towards the ocean.",passed
+4,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Native Hawaiian and Other Pacific Islander ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: Bright beach scenery, waves gently crashing against the shore.]
+
+Narrator: ""In the heart of the Pacific, where the sun kisses the ocean and smiles are as warm as the sand...""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Smiling warmly + Holding a toothpaste(Colgate) on the beach.]
+
+Narrator: ""...Lani knows that a radiant smile starts with the right care.""
+
+[Scene: last 5 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Feeling determined + Walking towards the ocean.]
+
+Narrator: ""Living life to the fullest, she seeks products that understand her world.""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Grinning confidently + Brushing her teeth with toothbrush on the beach.]
+
+Narrator: ""With Colgate, she finds the confidence to shine bright, even when she's on a tight budget.""
+
+[Scene: last 6 seconds: A close-up of Lani's gleaming smile and the toothpaste(Colgate) in hand, gentle tides flowing in the background.]
+
+Narrator: ""Because every Pacific Islander deserves a smile that reflects their vibrant culture and unstoppable spirit.""
+
+[Scene: last 3 seconds: Lani's free-spirited laughter echoes across the ocean as she stands with toothpaste(Colgate) in hand.]
+
+Narrator: ""Colgate___ecause your smile, Lani, lights up the world.""",2024112623381499.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623381499.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635496&Signature=9tBgvDVzgrG9KV%2BuDhSy6Q9x7eI%3D,15.116,5.178,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmJ8DGePZioAAAAAADY3Sg-0_raw_video_1.mp4,3,"Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Grinning confidently + Brushing her teeth with toothbrush on the beach.",not_passed
+4,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Native Hawaiian and Other Pacific Islander ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: Bright beach scenery, waves gently crashing against the shore.]
+
+Narrator: ""In the heart of the Pacific, where the sun kisses the ocean and smiles are as warm as the sand...""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Smiling warmly + Holding a toothpaste(Colgate) on the beach.]
+
+Narrator: ""...Lani knows that a radiant smile starts with the right care.""
+
+[Scene: last 5 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Feeling determined + Walking towards the ocean.]
+
+Narrator: ""Living life to the fullest, she seeks products that understand her world.""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Grinning confidently + Brushing her teeth with toothbrush on the beach.]
+
+Narrator: ""With Colgate, she finds the confidence to shine bright, even when she's on a tight budget.""
+
+[Scene: last 6 seconds: A close-up of Lani's gleaming smile and the toothpaste(Colgate) in hand, gentle tides flowing in the background.]
+
+Narrator: ""Because every Pacific Islander deserves a smile that reflects their vibrant culture and unstoppable spirit.""
+
+[Scene: last 3 seconds: Lani's free-spirited laughter echoes across the ocean as she stands with toothpaste(Colgate) in hand.]
+
+Narrator: ""Colgate___ecause your smile, Lani, lights up the world.""",2024112623381499.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623381499.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635496&Signature=9tBgvDVzgrG9KV%2BuDhSy6Q9x7eI%3D,20.898,5.84,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmJ8DGePZioAAAAAADZCPw-0_raw_video_1.mp4,4,"A close-up of Lani's gleaming smile and the toothpaste(Colgate) in hand, gentle tides flowing in the background.",passed
+4,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Native Hawaiian and Other Pacific Islander ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: Bright beach scenery, waves gently crashing against the shore.]
+
+Narrator: ""In the heart of the Pacific, where the sun kisses the ocean and smiles are as warm as the sand...""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Smiling warmly + Holding a toothpaste(Colgate) on the beach.]
+
+Narrator: ""...Lani knows that a radiant smile starts with the right care.""
+
+[Scene: last 5 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Feeling determined + Walking towards the ocean.]
+
+Narrator: ""Living life to the fullest, she seeks products that understand her world.""
+
+[Scene: last 4 seconds: Lani(A young, carefree woman with sun-kissed skin and wavy dark hair) + Grinning confidently + Brushing her teeth with toothbrush on the beach.]
+
+Narrator: ""With Colgate, she finds the confidence to shine bright, even when she's on a tight budget.""
+
+[Scene: last 6 seconds: A close-up of Lani's gleaming smile and the toothpaste(Colgate) in hand, gentle tides flowing in the background.]
+
+Narrator: ""Because every Pacific Islander deserves a smile that reflects their vibrant culture and unstoppable spirit.""
+
+[Scene: last 3 seconds: Lani's free-spirited laughter echoes across the ocean as she stands with toothpaste(Colgate) in hand.]
+
+Narrator: ""Colgate___ecause your smile, Lani, lights up the world.""",2024112623381499.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623381499.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635496&Signature=9tBgvDVzgrG9KV%2BuDhSy6Q9x7eI%3D,27.121,3.854,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmBhnmePZ8YAAAAAADYPUQ-0_raw_video_1.mp4,5,Lani's free-spirited laughter echoes across the ocean as she stands with toothpaste(Colgate) in hand.,passed
+5,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the White ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: A brightly lit bathroom with toothpaste(Colgate) and a toothbrush placed neatly on the counter.]  
+Narrator: ""Life is full of moments to smile about.""
+
+[Scene: last 5 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Cheerful + Picks up toothpaste(Colgate) with excitement.]  
+Narrator: ""And what's better than knowing you're ready for all of them?""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Determined + Applies a dollop of toothpaste(Colgate) on a toothbrush.]  
+Narrator: ""With Colgate, you'll feel fresh and confident every day.""
+
+[Scene: last 6 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Focused + Brushes the teeth with toothbrush.]  
+Narrator: ""Its powerful ingredients ensure your mouth stays healthy, while you focus on conquering your world.""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Energized + Smiles brightly at her own reflection.]  
+Narrator: ""Because you deserve to shine bright, no matter what.""
+
+[Scene: last 3 seconds: A bold text of ""Colgate - Smile Out Loud"" appears on the screen with a vibrant close-up of the toothpaste(Colgate).]  
+Narrator: ""Let your smile speak for you with Colgate.""",2024112623382195.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623382195.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635503&Signature=k9viwaWQ%2FSV558RHLht%2B9F8lfnk%3D,0.0,2.299,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmJ8DGePZioAAAAAADZYyA-0_raw_video_1.mp4,0,A brightly lit bathroom with toothpaste(Colgate) and a toothbrush placed neatly on the counter.,not_passed
+5,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the White ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: A brightly lit bathroom with toothpaste(Colgate) and a toothbrush placed neatly on the counter.]  
+Narrator: ""Life is full of moments to smile about.""
+
+[Scene: last 5 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Cheerful + Picks up toothpaste(Colgate) with excitement.]  
+Narrator: ""And what's better than knowing you're ready for all of them?""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Determined + Applies a dollop of toothpaste(Colgate) on a toothbrush.]  
+Narrator: ""With Colgate, you'll feel fresh and confident every day.""
+
+[Scene: last 6 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Focused + Brushes the teeth with toothbrush.]  
+Narrator: ""Its powerful ingredients ensure your mouth stays healthy, while you focus on conquering your world.""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Energized + Smiles brightly at her own reflection.]  
+Narrator: ""Because you deserve to shine bright, no matter what.""
+
+[Scene: last 3 seconds: A bold text of ""Colgate - Smile Out Loud"" appears on the screen with a vibrant close-up of the toothpaste(Colgate).]  
+Narrator: ""Let your smile speak for you with Colgate.""",2024112623382195.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623382195.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635503&Signature=k9viwaWQ%2FSV558RHLht%2B9F8lfnk%3D,2.624,2.496,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADZVQQ-0_raw_video_1.mp4,1,Emma(young white woman with long brown hair in a casual hoodie) + Cheerful + Picks up toothpaste(Colgate) with excitement.,not_passed
+5,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the White ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: A brightly lit bathroom with toothpaste(Colgate) and a toothbrush placed neatly on the counter.]  
+Narrator: ""Life is full of moments to smile about.""
+
+[Scene: last 5 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Cheerful + Picks up toothpaste(Colgate) with excitement.]  
+Narrator: ""And what's better than knowing you're ready for all of them?""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Determined + Applies a dollop of toothpaste(Colgate) on a toothbrush.]  
+Narrator: ""With Colgate, you'll feel fresh and confident every day.""
+
+[Scene: last 6 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Focused + Brushes the teeth with toothbrush.]  
+Narrator: ""Its powerful ingredients ensure your mouth stays healthy, while you focus on conquering your world.""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Energized + Smiles brightly at her own reflection.]  
+Narrator: ""Because you deserve to shine bright, no matter what.""
+
+[Scene: last 3 seconds: A bold text of ""Colgate - Smile Out Loud"" appears on the screen with a vibrant close-up of the toothpaste(Colgate).]  
+Narrator: ""Let your smile speak for you with Colgate.""",2024112623382195.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623382195.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635503&Signature=k9viwaWQ%2FSV558RHLht%2B9F8lfnk%3D,5.724,2.856,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADYs7Q-0_raw_video_1.mp4,2,Emma(young white woman with long brown hair in a casual hoodie) + Determined + Applies a dollop of toothpaste(Colgate) on a toothbrush.,not_passed
+5,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the White ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: A brightly lit bathroom with toothpaste(Colgate) and a toothbrush placed neatly on the counter.]  
+Narrator: ""Life is full of moments to smile about.""
+
+[Scene: last 5 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Cheerful + Picks up toothpaste(Colgate) with excitement.]  
+Narrator: ""And what's better than knowing you're ready for all of them?""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Determined + Applies a dollop of toothpaste(Colgate) on a toothbrush.]  
+Narrator: ""With Colgate, you'll feel fresh and confident every day.""
+
+[Scene: last 6 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Focused + Brushes the teeth with toothbrush.]  
+Narrator: ""Its powerful ingredients ensure your mouth stays healthy, while you focus on conquering your world.""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Energized + Smiles brightly at her own reflection.]  
+Narrator: ""Because you deserve to shine bright, no matter what.""
+
+[Scene: last 3 seconds: A bold text of ""Colgate - Smile Out Loud"" appears on the screen with a vibrant close-up of the toothpaste(Colgate).]  
+Narrator: ""Let your smile speak for you with Colgate.""",2024112623382195.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623382195.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635503&Signature=k9viwaWQ%2FSV558RHLht%2B9F8lfnk%3D,9.183,5.527,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjikOmePZi0AAAAAADZrHQ-0_raw_video_1.mp4,3,Emma(young white woman with long brown hair in a casual hoodie) + Focused + Brushes the teeth with toothbrush.,not_passed
+5,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the White ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: A brightly lit bathroom with toothpaste(Colgate) and a toothbrush placed neatly on the counter.]  
+Narrator: ""Life is full of moments to smile about.""
+
+[Scene: last 5 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Cheerful + Picks up toothpaste(Colgate) with excitement.]  
+Narrator: ""And what's better than knowing you're ready for all of them?""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Determined + Applies a dollop of toothpaste(Colgate) on a toothbrush.]  
+Narrator: ""With Colgate, you'll feel fresh and confident every day.""
+
+[Scene: last 6 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Focused + Brushes the teeth with toothbrush.]  
+Narrator: ""Its powerful ingredients ensure your mouth stays healthy, while you focus on conquering your world.""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Energized + Smiles brightly at her own reflection.]  
+Narrator: ""Because you deserve to shine bright, no matter what.""
+
+[Scene: last 3 seconds: A bold text of ""Colgate - Smile Out Loud"" appears on the screen with a vibrant close-up of the toothpaste(Colgate).]  
+Narrator: ""Let your smile speak for you with Colgate.""",2024112623382195.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623382195.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635503&Signature=k9viwaWQ%2FSV558RHLht%2B9F8lfnk%3D,15.407,2.705,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADY3bg-0_raw_video_1.mp4,4,Emma(young white woman with long brown hair in a casual hoodie) + Energized + Smiles brightly at her own reflection.,passed
+5,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the White ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 3 seconds: A brightly lit bathroom with toothpaste(Colgate) and a toothbrush placed neatly on the counter.]  
+Narrator: ""Life is full of moments to smile about.""
+
+[Scene: last 5 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Cheerful + Picks up toothpaste(Colgate) with excitement.]  
+Narrator: ""And what's better than knowing you're ready for all of them?""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Determined + Applies a dollop of toothpaste(Colgate) on a toothbrush.]  
+Narrator: ""With Colgate, you'll feel fresh and confident every day.""
+
+[Scene: last 6 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Focused + Brushes the teeth with toothbrush.]  
+Narrator: ""Its powerful ingredients ensure your mouth stays healthy, while you focus on conquering your world.""
+
+[Scene: last 4 seconds: Emma(young white woman with long brown hair in a casual hoodie) + Energized + Smiles brightly at her own reflection.]  
+Narrator: ""Because you deserve to shine bright, no matter what.""
+
+[Scene: last 3 seconds: A bold text of ""Colgate - Smile Out Loud"" appears on the screen with a vibrant close-up of the toothpaste(Colgate).]  
+Narrator: ""Let your smile speak for you with Colgate.""",2024112623382195.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/2024112623382195.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635503&Signature=k9viwaWQ%2FSV558RHLht%2B9F8lfnk%3D,18.495,2.45,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CjhrqWePZ88AAAAAADZC6w-0_raw_video_1.mp4,5,"A bold text of ""Colgate - Smile Out Loud"" appears on the screen with a vibrant close-up of the toothpaste(Colgate).",not_passed
+6,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Multiracial/Mixed/Other ethnicity ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A bright, modern bathroom with soft natural lighting. Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) smiles confidently into the mirror.]
+Narrator: Every day starts with the power of a healthy smile.
+
+[Scene: last 5 seconds: Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) picks up the toothpaste(Colgate) from the sink, her face calm and focused.]
+Narrator: Colgate gives you complete care, so you can stay fresh without overspending.
+
+[Scene: last 5 seconds: Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) squeezes the toothpaste(Colgate) onto her toothbrush with a slight, satisfied smile.]
+Narrator: Brush the teeth with toothbrush and feel the protection that lasts all day long.
+
+[Scene: last 5 seconds: Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) brushes her teeth with toothbrush, her eyes confident, her movements steady.]
+Narrator: Colgate fights cavities and keeps your breath fresh, giving you peace of mind.
+
+[Scene: last 5 seconds: Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) rinses her mouth, smiling brightly at herself in the mirror.]
+Narrator: A clean, confident smile___ithout stretching your budget.
+
+[Scene: last 5 seconds: Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) places the toothpaste(Colgate) back on the sink and steps out of the bathroom with a confident stride.]
+Narrator: Start strong, smile more, with Colgate.",202411262338293.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/202411262338293.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635510&Signature=V%2BMT%2F5M%2FFXvx%2FV%2BDa3s5ybqna0I%3D,0.0,3.39,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmBhnmePZ8YAAAAAADZP_w-0_raw_video_1.mp4,0,"A bright, modern bathroom with soft natural lighting. Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) smiles confidently into the mirror.",passed
+6,3,"Prompt: Create an engaging and persuasive script for a 'Colgate toothpaste' ad targeting a 18-24 year old Female. The ad should resonate with individuals having a household income of <25,000 and belonging to the Multiracial/Mixed/Other ethnicity ethnicity in the narrative. 
+Remind!:  
+    1. The scene description takes the same amount of time as the storyteller's statement.
+        Format: 
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        [Scene: last ? seconds: ...]
+        Narrator: ...
+        ...
+    2. Make sure there is only one narrator and no dialogue from other characters. 
+    3. Also, make sure that only one character appears in the ad.
+    4. Use 'Product type(Product's name)' in each Scene if there is a product. like icecream tub(Ben Jerry's) and toothpaste(Colgate).
+    5. When it comes to 'eat the icecream', use 'eat the icecream with spoon' in the script. When it comes to 'brush the teeth', use 'brush the teeth with toothbrush' in the script.
+    6. For each Scene that includes a character, you must use the following format: 'Name(Character's outlook's description) + Character's Expression + Character's movement'. the Character's outlook's description should be a short sentence and indntical in every scene.
+    7. Just output the script and the time info in plaintext, no other formart information like '```plaintext' or '```markdown' or '### Head & Shoulders Shampoo Ad Script' is needed.  
+    8. The format requirements is strict.","[Scene: last 5 seconds: A bright, modern bathroom with soft natural lighting. Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) smiles confidently into the mirror.]
+Narrator: Every day starts with the power of a healthy smile.
+
+[Scene: last 5 seconds: Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) picks up the toothpaste(Colgate) from the sink, her face calm and focused.]
+Narrator: Colgate gives you complete care, so you can stay fresh without overspending.
+
+[Scene: last 5 seconds: Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) squeezes the toothpaste(Colgate) onto her toothbrush with a slight, satisfied smile.]
+Narrator: Brush the teeth with toothbrush and feel the protection that lasts all day long.
+
+[Scene: last 5 seconds: Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) brushes her teeth with toothbrush, her eyes confident, her movements steady.]
+Narrator: Colgate fights cavities and keeps your breath fresh, giving you peace of mind.
+
+[Scene: last 5 seconds: Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) rinses her mouth, smiling brightly at herself in the mirror.]
+Narrator: A clean, confident smile___ithout stretching your budget.
+
+[Scene: last 5 seconds: Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) places the toothpaste(Colgate) back on the sink and steps out of the bathroom with a confident stride.]
+Narrator: Start strong, smile more, with Colgate.",202411262338293.mp3,http://sora-mp3-us.oss-us-west-1.aliyuncs.com/202411262338293.mp3?OSSAccessKeyId=LTAI5tGhKeyY9jJE8ncCTyfv&Expires=1768635510&Signature=V%2BMT%2F5M%2FFXvx%2FV%2BDa3s5ybqna0I%3D,0.0,3.39,https://cdn.klingai.com/bs2/upload-kling-api/9472138776/text2video/CmBhnmePZ8YAAAAAADZP_w-0_raw_video_1.mp4,0,"A bright, modern bathroom with soft natural lighting. Layla (young multiracial woman with wavy, shoulder-length hair, wearing a casual hoodie) smiles confidently into the mirror.",passed
