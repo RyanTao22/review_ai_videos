@@ -4,13 +4,13 @@ import pandas as pd
 # File names
 # result_csv_name = 'review_results_250102.csv'
 # result_csv_kling = 'review_results_kling_250123.csv'
-result_df = 'combined_results_df_250203_part1.xlsx'
+result_csv_name = 'combined_results_df_250203_part1.csv'
 
 # Load data with caching
 @st.cache_data
 def load_data():
-    #full_df = pd.read_csv(result_csv_name, encoding='utf-8')
-    full_df = pd.read_excel(result_df)
+    full_df = pd.read_csv(result_csv_name, encoding='utf-8')
+    # full_df = pd.read_excel(result_df)
     
     full_df.reset_index(drop=True, inplace=True)
     
